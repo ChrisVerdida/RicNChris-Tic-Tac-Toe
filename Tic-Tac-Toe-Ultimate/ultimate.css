@@ -12,6 +12,7 @@ div.absolute {
     width: 70%;
     height: 33%;
 }
+
 div.absoluteinstructions {
     position: absolute;
     top: 25px;
@@ -92,11 +93,9 @@ button {
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     cursor: pointer;
-
     font-family: 'Courier New';
     font-weight: bold;
     color: #171211;
-
 }
 button:hover {
     background-color: #ada988;
