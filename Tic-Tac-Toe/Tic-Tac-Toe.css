@@ -160,3 +160,20 @@ table {
 .win-color {
     background-color: rgb(240, 240, 240);
 }
+
+/* Play Button */
+
+.ok-Btn {
+    margin-top: 5px;
+    font-size: 1rem;
+    border-radius: 10%;
+    border-top: none;
+    border-left: none;
+    padding: 10px;
+}
+
+.ok-Btn:hover {
+    border: 2px solid black;
+    font-weight: bold;
+    cursor: pointer;
+}
